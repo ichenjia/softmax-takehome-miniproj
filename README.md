@@ -3,6 +3,9 @@
 
 Please write your code in Python3. You are allowed to use Google when completing this test. Please do not share the test and complete the test on your own. The interview coding question will be significant harder than this test.
 
+## Language Requirement
+
+Please make sure to write your code in Python3
 
 ## Problem
 
